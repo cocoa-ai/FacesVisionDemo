@@ -3,7 +3,7 @@
 iOS11 demo application for age and gender classification of facial images using `Vision` and `CoreML`.
 
 <div align="center">
-<img src="https://github.com/cocoa-ml/FacesVisionDemo/blob/master/Screenshot.png" alt="FacesVisionDemo" width="300" height="464" />
+<img src="https://github.com/cocoa-ai/FacesVisionDemo/blob/master/Screenshot.png" alt="FacesVisionDemo" width="300" height="464" />
 </div>
 
 ## Model
@@ -34,7 +34,7 @@ which were converted from `Caffe` models to `CoreML` models using [coremltools](
 ## Installation
 
 ```sh
-git clone https://github.com/cocoa-ml/FacesVisionDemo.git
+git clone https://github.com/cocoa-ai/FacesVisionDemo.git
 cd FacesVisionDemo
 pod install
 open FacesVisionDemo.xcworkspace/
