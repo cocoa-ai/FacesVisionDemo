@@ -4,7 +4,7 @@ A Demo application using `Vision` and `CoreML` frameworks for age and gender
 classification of facial images.
 
 <div align="center">
-<img src="https://github.com/cocoa-ml/FacesVisionDemo/blob/master/Screenshot.png" alt="FacesVisionDemo" width="270" height="480" />
+<img src="https://github.com/cocoa-ml/FacesVisionDemo/blob/master/Screenshot.png" alt="FacesVisionDemo" width="300" height="464" />
 </div>
 
 ## Model
