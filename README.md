@@ -5,7 +5,7 @@ classification of facial images.
 
 <div align="center">
 <img src="https://github.com/cocoa-ml/FacesVisionDemo/blob/master/Screenshot.png" alt="FacesVisionDemo" width="270" height="480" />
-</div><br/>
+</div>
 
 ## Model
 
