@@ -1,7 +1,6 @@
 # Faces Vision Demo
 
-A Demo application using `Vision` and `CoreML` frameworks for age and gender
-classification of facial images.
+iOS11 demo application for age and gender classification of facial images using `Vision` and `CoreML`.
 
 <div align="center">
 <img src="https://github.com/cocoa-ml/FacesVisionDemo/blob/master/Screenshot.png" alt="FacesVisionDemo" width="300" height="464" />
