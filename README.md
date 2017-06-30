@@ -43,7 +43,7 @@ open FacesVisionDemo.xcworkspace/
 Download the [Age](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing),
 [Gender](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) and
 [Emotion](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing)
-CoreML models and drag the files into your project.
+CoreML models and add the files to "Resources" folder in the project's directory.
 
 Build the project and run it on a simulator or a device with iOS 11.
 
