@@ -37,7 +37,7 @@ which were converted from `Caffe` models to `CoreML` models using [coremltools](
 git clone https://github.com/cocoa-ai/FacesVisionDemo.git
 cd FacesVisionDemo
 pod install
-open FacesVisionDemo.xcworkspace/
+open Faces.xcworkspace/
 ```
 
 Download the [Age](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing),
