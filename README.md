@@ -40,6 +40,16 @@ pod install
 open Faces.xcworkspace/
 ```
 
+## Conversion
+
+```sh
+cd Convert
+./download.sh
+python age.py
+python gender.py
+python emotion.py
+```
+
 Download the [Age](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing),
 [Gender](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) and
 [Emotion](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing)
