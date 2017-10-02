@@ -1,6 +1,6 @@
 import coremltools
 
-folder = 'DemoDir/VGG_S_rgb'
+folder = 'EmotionClassification'
 
 coreml_model = coremltools.converters.caffe.convert(
     (folder + '/EmotiW_VGG_S.caffemodel', folder + '/deploy.prototxt'),

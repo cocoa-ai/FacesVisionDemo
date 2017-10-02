@@ -42,6 +42,11 @@ open Faces.xcworkspace/
 
 ## Conversion
 
+Download [Caffe model](https://drive.google.com/open?id=0BydFau0VP3XSNVYtWnNPMU1TOGM)
+and [deploy.prototxt](https://drive.google.com/open?id=0BydFau0VP3XSOFp4Ri1ITzZuUkk).
+Links can also be found [here](https://gist.github.com/GilLevi/54aee1b8b0397721aa4b#emotion-classification-cnn---rgb).
+Move downloaded files to `Covert/EmotionClassification` folder.
+
 ```sh
 cd Convert
 ./download.sh
